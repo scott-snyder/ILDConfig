@@ -105,6 +105,7 @@
   
   <!-- ***** Global section ***** -->
   <global>
+    <parameter name="GearXMLFile" />
     <parameter name="LCIOInputFiles"> </parameter>
     <parameter name="MaxRecordNumber" value="0"/>
     <parameter name="SkipNEvents" value="0"/>
