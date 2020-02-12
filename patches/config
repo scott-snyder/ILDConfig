@@ -1,0 +1,11 @@
+Bottom: 93efd0b5f89675e41c6058cb431b59852fcf05a0
+Top:    93efd0b5f89675e41c6058cb431b59852fcf05a0
+Author: scott snyder <sss@karma>
+Date:   2020-02-12 09:18:09 -0500
+
+Add GearXMLFile parameter to MarlinStdReco.xml, to avoid BField errors.
+
+
+---
+
+
