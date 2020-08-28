@@ -1,5 +1,5 @@
-Bottom: 93efd0b5f89675e41c6058cb431b59852fcf05a0
-Top:    4e087f51eb03c9347f5eaaca5700cce6a3c257be
+Bottom: 6cc50d0c056e208d402122ace442a1034ab038b4
+Top:    bf25cae27a44946e5017a09690a4afeec050506e
 Author: scott snyder <sss@karma>
 Date:   2020-02-12 09:18:09 -0500
 
@@ -8,15 +8,5 @@ Add GearXMLFile parameter to MarlinStdReco.xml, to avoid BField errors.
 
 ---
 
-diff --git a/StandardConfig/production/MarlinStdReco.xml b/StandardConfig/production/MarlinStdReco.xml
-index d5e8280..1b797cf 100644
---- a/StandardConfig/production/MarlinStdReco.xml
-+++ b/StandardConfig/production/MarlinStdReco.xml
-@@ -105,6 +105,7 @@
-   
-   <!-- ***** Global section ***** -->
-   <global>
-+    <parameter name="GearXMLFile" />
-     <parameter name="LCIOInputFiles"> </parameter>
-     <parameter name="MaxRecordNumber" value="0"/>
-     <parameter name="SkipNEvents" value="0"/>
+StandardConfig/production/MarlinStdReco.xml | 1 +
+ 1 file changed, 1 insertion(+)

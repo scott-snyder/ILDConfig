@@ -1,8 +1,8 @@
 Version: 1
-Previous: bd727e2e6d224bb16549193a92ba6f0261d31cdd
-Head: 17e62c72d0a52b6066880b2b2f224b30de5a916b
+Previous: 9f0bfe174c516f486f618fba302c4d35a5361341
+Head: c2fc4969b64561578246ba0203fd30d5eed4fe4c
 Applied:
+  config: 8d69a2a825778aa8a248a27f8ba23a56de2ccbd4
+  gitignore: c2fc4969b64561578246ba0203fd30d5eed4fe4c
 Unapplied:
-  config: 75940bd543c51a6a55041c770ca00322022f8bfe
-  gitignore: 4113d6ae1cac04b84416abb31f5a9ba8a4ba5945
 Hidden:
